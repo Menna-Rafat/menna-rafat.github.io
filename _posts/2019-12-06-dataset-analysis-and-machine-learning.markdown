@@ -20,11 +20,11 @@ layout: post
 
 ## **Here are the results:**
 |   | Linear Discriminant Analysis| K Nearest Neighbors Classifier|
-| ------------- |:-------------:| -----:|
-| Accuracy      | 0.7708 | $1600 |
-| Sensitivity      | centered      |   $12 |
-| Specificity | are neat      |    $1 |
-| P-value(CI 95%) | are neat      |    $1 |
+| -------------  |:-------------:|  -----:|
+| Accuracy         | 0.7708      |    0.77  |
+| Sensitivity      | 0.5672      |    0.92  |
+| Specificity      | 0.88        |    0.49  |
+| P-value(CI 95%)  | 0.0000339   |  0.0005  |
 
 
 

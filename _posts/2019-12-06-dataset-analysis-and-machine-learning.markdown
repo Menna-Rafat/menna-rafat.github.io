@@ -11,7 +11,7 @@ date: 2019-12-06 02:08:00 Z
 ## **Methods**
 *When model is divided into train and validation, it means that the training part wasn't considered in the validation part, and similarly the validation part wasn't considered in the training part. That's why we used the cross-validation, so that the whole data will be considered in both training and validation. See following diagram show more explanation.[Source]*
 ## **Linear Discriminant & Logistic Regression**
-![alt text][]
+![alt text][lda]
 ## **K Nearest Neighbors**
 
 ## **Here are the results:**

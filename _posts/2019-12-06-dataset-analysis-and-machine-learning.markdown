@@ -14,6 +14,7 @@ layout: post
 ## **Linear Discriminant & Logistic Regression**
 ![lda.gif](/uploads/lda.gif)
 ## **K Nearest Neighbors**
+[KNN.ppm](/uploads/KNN.ppm)
 
 ## **Here are the results:**
 

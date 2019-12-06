@@ -16,7 +16,7 @@ layout: post
 ![lda.gif](/uploads/lda.gif)
 
 ## **K Nearest Neighbors**
-[KNN.png](/uploads/KNN.png)
+![KNN.png](/uploads/KNN.png)
 
 ## **Here are the results:**
 

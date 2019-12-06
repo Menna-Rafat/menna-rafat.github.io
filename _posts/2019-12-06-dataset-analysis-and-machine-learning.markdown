@@ -19,8 +19,8 @@ layout: post
 ![KNN.png](/uploads/KNN.png)
 
 ## **Here are the results:**
-|   | Linear Discriminant Analysis| K Nearest Neighbors Classifier|
-| -------------  |:-------------:|  -----:|
+|                  | Linear Discriminant Analysis| K Nearest Neighbors Classifier|
+| -------------    |:-------------:|  -----:|
 | Accuracy         | 0.7708      |    0.77  |
 | Sensitivity      | 0.5672      |    0.92  |
 | Specificity      | 0.88        |    0.49  |

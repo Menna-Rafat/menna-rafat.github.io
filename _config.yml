@@ -1,6 +1,6 @@
 ---
 title: Menna Tollah Rafat
-timezone: UTC
+timezone: Africa/Cairo
 collections:
   posts:
     title: Posts
@@ -10,7 +10,7 @@ collections:
     output: true
 email: menna12rere@gmail.com
 description: Personal blog and resume .
-baseurl: ''
+baseurl: 
 url: http://Menna-Rafat.com
 github_username: Menna-Rafat
 markdown: kramdown

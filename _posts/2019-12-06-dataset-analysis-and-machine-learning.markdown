@@ -32,4 +32,4 @@ layout: post
 
 ## **Here are the results:**
 
-[result.png](/uploads/result.png)
+[result.png.PNG](/uploads/result.png.PNG)

@@ -11,8 +11,7 @@ collections:
 email: menna12rere@gmail.com
 description: Personal blog and resume .
 
-'
 baseurl: ''
-url: http://menna_rafat.com
-github_username: menna_rafat
+url: http://Menna-Rafat.com
+github_username: Menna-Rafat
 markdown: kramdown

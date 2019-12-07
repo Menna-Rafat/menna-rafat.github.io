@@ -29,4 +29,4 @@ layout: post
 
 ## **Here are the results:**
 
-[result.PNG](/uploads/result.PNG)
+[result.png.PNG](/uploads/result.png.PNG)

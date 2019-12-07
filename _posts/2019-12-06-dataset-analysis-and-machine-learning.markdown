@@ -20,7 +20,7 @@ layout: post
 
 ## **Here are the results:**
 |classifiers      | L D A| K Nearest Neighbors Classifier|
-| -------------    |:-------------:|  -----:|
+| -------------    |-------------|  -----|
 | Accuracy         | 0.7708      |    0.77  |
 | Sensitivity      | 0.5672      |    0.92  |
 | Specificity      | 0.88        |    0.49  |

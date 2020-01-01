@@ -5,6 +5,4 @@ layout: page
 ---
 
 
-Hi, I’m Menna El-Khatib . junior Biomedical engineering student. Hobbies : reading,handmade  and Fitness. 
-Skills:Accurate , detail oriented , Leadership , Team Player and Projects Management
-C++, Python, Mark down , R languages
+Hi, I’m Menna El-Khatib . junior Biomedical engineering student. Hobbies : Reading in biomedical , space and novels and writing poets watching ُُEnglish films(science fiction,action and romance ) listening to music (specially English songs) visiting new places, traveling and taking pictures and Fitness.

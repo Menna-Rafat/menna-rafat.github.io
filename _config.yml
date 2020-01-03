@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  liked-it:
+    title: liked it
+    output: true
 email: menna12rere@gmail.com
 description: Personal blog and resume .
 baseurl: 

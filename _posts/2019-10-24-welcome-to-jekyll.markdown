@@ -15,12 +15,13 @@ Hi, I’m Menna El-Khatib . junior Biomedical engineering student.
 # **programming Language** : C++, Python, Mark down , R languages<br/> <br/> 
 #Projects :
 ## Second year projects
-•heat pack(Arduino)
-•Head Mouse(Arduino)<br/>
+* C++ , Python and Matlab projects
+* heat pack(Arduino)
+* Head Mouse(Arduino)<br/>
 
 ## First year projects:
-•fire extinguisher car(Arduino)
-•Robotic arm (Arduino)
-•Scientific report about chaos in non linear circuits with poster
-•Savonius wind turbine with poster
+* fire extinguisher car(Arduino)
+* Robotic arm (Arduino)
+* Scientific report about chaos in non linear circuits with poster
+* Savonius wind turbine with poster
   

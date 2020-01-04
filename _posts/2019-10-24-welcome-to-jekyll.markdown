@@ -16,7 +16,11 @@ Hi, I’m Menna El-Khatib . junior Biomedical engineering student.
 #Projects :
 ## Second year projects
 •heat pack(Arduino)
-•Head Mouse(Arduino)
+•Head Mouse(Arduino)<br/>
+
 ## First year projects:
- 
+•fire extinguisher car(Arduino)
+•Robotic arm (Arduino)
+•Scientific report about chaos in non linear circuits with poster
+•Savonius wind turbine with poster
   

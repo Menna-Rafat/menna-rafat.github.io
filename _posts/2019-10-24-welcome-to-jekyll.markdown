@@ -13,7 +13,7 @@ Hi, I’m Menna El-Khatib . junior Biomedical engineering student.
 # **Work Experience**: training in Sohag university Hospitals.<br/>
 # **Skills**:Accurate , detail oriented , Leadership , Team Player and Projects Management<br/>
 # **programming Language** : C++, Python, Mark down , R languages<br/> <br/> 
-# Projects :
+# **Projects** :
 ## Second year projects
 * C++ , Python and Matlab projects
 * heat pack(Arduino)
